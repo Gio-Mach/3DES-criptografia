@@ -1,0 +1,1 @@
+A criptografia é usada para proteger os dados contra roubo, alteração ou comprometimento e funciona transformando os dados em um código secreto que só pode ser desbloqueado com uma chave digital exclusiva

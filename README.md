@@ -16,4 +16,4 @@ O código implementa a criptografia 3DES, que é uma versão mais segura do DES 
 
 - Linguagem C
 - Algoritmo 3DES (Triple DES)
--
+- Arquivos de entrada e saída
